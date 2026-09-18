@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:Semana Columbus Virtual
+NAME:Semana Columbus Virtual
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Mexico_City
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Mexico_City
+X-LIC-LOCATION:America/Mexico_City
+BEGIN:STANDARD
+TZNAME:CST
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260918T225327Z
+UID:1789489911346-54940@ical.marudot.com
+DTSTART;TZID=America/Mexico_City:20261026T173000
+DTEND;TZID=America/Mexico_City:20261026T190000
+SUMMARY:Patrimonio\, familia y conversaciones que construyen legado.
+URL:https://us06web.zoom.us/webinar/register/WN_VX-2uQzfTPeiuE7b3jTxNQ#/registration
+DESCRIPTION:Una conversación sobre los hábitos\, sesgos y decisiones que transforman la riqueza actual en un patrimonio trascendente para las siguientes generaciones.
+LOCATION:Transmisión en Zoom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T225327Z
+UID:1789490090188-21521@ical.marudot.com
+DTSTART;TZID=America/Mexico_City:20261028T180000
+DTEND;TZID=America/Mexico_City:20261028T200000
+SUMMARY:Visión Columbus 2026: del entorno a la estrategia.
+URL:https://us06web.zoom.us/webinar/register/WN_B38zVTwhQ52L6l26QP3GiA#/registration
+DESCRIPTION:Nuestro Economista en Jefe y el equipo de Portfolio Managers detallan la visión macroeconómica de Columbus\, su traducción táctica en Asset Allocation y el desempeño histórico de nuestras estrategias diversificadas.
+LOCATION:Transmisión en Zoom
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T225327Z
+UID:1789490282277-72976@ical.marudot.com
+DTSTART;TZID=America/Mexico_City:20261029T173000
+DTEND;TZID=America/Mexico_City:20261029T190000
+SUMMARY:El mito del perfilamiento
+URL:https://us06web.zoom.us/webinar/register/WN_5ZHZyTw-RqukV2P3TjR9aw#/registration
+DESCRIPTION:Más allá de lo regulatorio\, tu perfilamiento comprende cómo alinear tus necesidades de liquidez\, riesgo y propósito en una estrategia patrimonial integral.
+LOCATION:Zoom Webinar
+END:VEVENT
+END:VCALENDAR
